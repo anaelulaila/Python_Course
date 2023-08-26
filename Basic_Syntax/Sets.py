@@ -1,4 +1,4 @@
-#Conjuntos
+#Sets
 
 vacio = set()     #Definir un conjunto vacio
 
